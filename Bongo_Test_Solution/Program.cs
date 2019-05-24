@@ -46,6 +46,7 @@ namespace JSON
             // having sample Json and default level as parameter
             KeyDepth(details, 1);
 
+            Console.Title = "JSON";
             Console.WriteLine("Output for Solution 1:");
             foreach (var item in result)
             {

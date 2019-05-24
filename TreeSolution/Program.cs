@@ -76,6 +76,7 @@ namespace Tree
 
             try
             {
+                Console.Title = "Tree";
                 Console.WriteLine("Please enter Node 1");
                 a = int.Parse(Console.ReadLine());
                 Console.WriteLine("Please enter Node 2");
