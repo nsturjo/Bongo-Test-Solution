@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F92BC965-F510-4B1C-A4E8-312D36E9CB76}</ProjectGuid>
+    <ProjectGuid>{BB4D5D01-4605-42C7-97A7-9DBB18F52126}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Bongo_Test_Solution</RootNamespace>
-    <AssemblyName>Bongo_Test_Solution</AssemblyName>
+    <RootNamespace>BinaryTree</RootNamespace>
+    <AssemblyName>BinaryTree</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
